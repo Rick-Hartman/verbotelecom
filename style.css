@@ -1,0 +1,37 @@
+.container {
+    height: auto;
+    width: 100%;
+    background-color: azure;
+    border: 1px solid black;
+}
+
+.header {
+    height: 75px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.header {
+    font-size: 400%;
+}
+
+.logo {
+    color: snow;
+}
+
+.info {
+    text-align: center;
+}
+
+.warning {
+    color: cornflowerblue;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 40%;
+    height: auto;   
+    outline: double 2px black;
+}
